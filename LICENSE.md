@@ -1,6 +1,6 @@
 # TRUE MINING LICENSE
 
-> Version 1.0, Setembro de 2020
+> Version 1.1, Setembro de 2020
 
 > Copyright (C) 2019-2020 True Mining
 
@@ -27,4 +27,56 @@ Todos têm permissão para copiar e distribuir este documento de licença como o
 
 7. Não infrinja as leis do seu país ou jurisdição. O cumprimento das leis e as consequências do descumprimento delas são de total responsabilidade do usuário.
 
-8. Usando o software ou fazendo qualquer coisa especificada neste documento de licença você concorda com os termos dispostos.
+8. A licença pode ser alterada a qualquer momento sem aviso prévio. A aceitação dos novos termos é automática.
+
+9. Entre em contato com o desenvolvedor se quiser negociar algo ou tiver dúvidas sobre a licença.
+
+10. Usando o software ou fazendo qualquer coisa especificada neste documento de licença você concorda com os termos dispostos.
+
+================================================================================
+
+MaterialDesignColors and MaterialDesignThemes nuget packages used in parts of this project:
+The MIT License (MIT)
+
+Copyright (c) 2020 James Willock
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+
+Newtonsoft.Json nuget package used in parts of this project:
+The MIT License (MIT)
+
+Copyright (c) 2007 James Newton-King
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
